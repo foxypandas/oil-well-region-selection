@@ -1,0 +1,12 @@
+# Ignore old versions
+old_versions/
+
+# Ignore data files
+data/*.csv
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.dbold_notebooks/
